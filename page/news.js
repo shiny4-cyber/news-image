@@ -7,14 +7,14 @@ const DAY = {
   day: '18',
   month: 'November',
   year: '2026',
-  stories: 'Twelve stories',
+  stories: 'Nine stories',
   regions: 'Five regions',
 };
 
 const HERO = {
   kicker: 'APEC summit &middot; Shenzhen, China',
-  headline: 'Trump, Xi and Putin meet together for the first time',
-  deck: 'Xi greeted Trump on the tarmac; the first in-person trilateral of the three leaders followed.',
+  headline: 'Trump lands in Shenzhen to meet Xi and Putin',
+  deck: 'Xi greeted him on the tarmac before the three leaders&rsquo; first in-person trilateral.',
 };
 
 const SECOND = [
